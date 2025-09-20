@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+[Your+Name]+👋;First+Year+CSE+Student;Learning+to+Code+Step+by+Step;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m   Layzal Hosur
 
 🎓 First-year **Computer Science and Engineering (CSE)** student  
 💻 Exploring programming, problem solving, and tech step by step  
